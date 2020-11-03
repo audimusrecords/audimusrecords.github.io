@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Keep Calm";
+    src: url("../fonts/KeepCalm-Medium.ttf");
+}
+
+#name {
+    font-family: "Keep Calm";
+}
+
+body {
+    background-color: rgb(6, 6, 6);
+    width: 100%;
+    height: 100vh;
+}
